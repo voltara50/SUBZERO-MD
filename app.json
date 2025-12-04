@@ -8,7 +8,7 @@
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description":"Ice~SEMtcD" "Put your Subzero session-id here.",
+      "description":"Ice~wgkDyU" "Put your Subzero session-id here.",
       "required": true,
       "value": ""
     }
